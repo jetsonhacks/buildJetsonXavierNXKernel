@@ -1,6 +1,6 @@
 #!/bin/bash
 # Get the kernel source for NVIDIA Jetson Xavier NX Developer Kit, L4T
-# Copyright (c) 2016-2020 Jetsonhacks 
+# Copyright (c) 2016-2021 Jetsonhacks 
 # MIT License
 
 # Install the kernel source for L4T
@@ -12,7 +12,7 @@ echo "Jetpack $JETSON_JETPACK [L4T $JETSON_L4T]"
 #Print Kernel Version
 
 SOURCE_TARGET="/usr/src"
-L4TTarget="32.4.3"
+L4TTarget="32.5.0"
 KERNEL_RELEASE="4.9"
 
 function usage

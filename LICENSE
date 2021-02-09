@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Jetsonhacks
+Copyright (c) 2020-2021 Jetsonhacks
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,6 +23,6 @@ SOFTWARE.
 --------------
 jetson_variables.sh
 See scripts/jetson_variables.sh for full copyright info
-Copyright (c) 2020 Raffaello Bonghi.
+Copyright (c) 2020-2021 Raffaello Bonghi.
 Part of the jetson_stats package (https://github.com/rbonghi/jetson_stats or http://rnext.it).
 
