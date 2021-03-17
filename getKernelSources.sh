@@ -12,7 +12,7 @@ echo "Jetpack $JETSON_JETPACK [L4T $JETSON_L4T]"
 #Print Kernel Version
 
 SOURCE_TARGET="/usr/src"
-L4TTarget="32.5.0"
+L4TTarget="32.5.1"
 KERNEL_RELEASE="4.9"
 
 function usage

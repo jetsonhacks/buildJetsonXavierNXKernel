@@ -17,7 +17,7 @@ fi
 cd "$SOURCE_TARGET"
 echo "$PWD"
 # For this version, TX2 and AGX Xavier and Xavier NX have the same source files
-wget -N https://developer.nvidia.com/embedded/L4T/r32_Release_v5.0/sources/T186/public_sources.tbz2
+wget -N https://developer.nvidia.com/embedded/l4t/r32_release_v5.1/r32_release_v5.1/sources/t186/public_sources.tbz2
 
 # l4t-sources is a tbz2 file
 tar -xvf public_sources.tbz2  Linux_for_Tegra/source/public/kernel_src.tbz2 --strip-components=3
