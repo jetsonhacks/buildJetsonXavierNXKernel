@@ -1,4 +1,8 @@
 # buildJetsonXavierNXKernel
+## Deprecated
+For version of L4T newere than L4T 32.6.1 please see <strong>jetson-linux-build</strong> https://github.com/jetsonhacks/jetson-linux-build
+
+## README
 Scripts to help build the 4.9.253 kernel and modules onboard the Jetson Xavier NX (L4T 32.6.1, JetPack 4.6).
 
 <em><strong>Note:</strong> The kernel source version must match the version of firmware flashed on the Jetson. For example, the source for the 4.9.253 kernel here is matched with L4T 32.6.1. This kernel compiled using this source tree may not work with newer versions or older versions of L4T.</em>
